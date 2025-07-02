@@ -2,7 +2,7 @@ Introducing the Dual Solar Battery Jacket — Power Meets Performance in Every S
 
 When adventure calls, power is essential. Whether you’re camping deep in the wilderness, trekking on a remote expedition, 
 or simply powering through a long day, the Dual Solar Battery Jacket is engineered to keep you 
-warm and your devices charged — wherever you go.
+warm and your flashlights charged — wherever you go.
 
 Unmatched Solar Warmth & Energy Supply
 This isn’t just a jacket — it’s your personal solar power station. Equipped with dual high-efficiency solar 
