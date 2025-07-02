@@ -34,16 +34,7 @@ Heat Type	Controlled?	Max Output	Duration (Per Battery)
 Active Heating	Yes	~42°C (chest/back)	~45–60 minutes
 Passive Heat	Indirect	~30–35°C from battery warmth	Ongoing during use
 
-Would you like to add automatic climate control (temperature-sensing heat adjustment) or expand heating zones to arms and gloves in the next design iteration?
-You said:
-this is already included in the jackets design or you just added?
-ChatGPT said:
 
-Great question — here’s the clear answer:
-
-✅ Yes, this heating system is already included in the original VoltWeave Expedition Mk II design I gave you earlier.
-
-Specifically:
 
     Under 🔌 Section 3: User Features, it says:
 
