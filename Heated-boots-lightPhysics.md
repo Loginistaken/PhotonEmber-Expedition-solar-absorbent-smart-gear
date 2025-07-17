@@ -1,5 +1,5 @@
 # Boot-Heated light wieght physics   ⚙️ Core Shoe Design Blueprint: Quantum Gravity-Repel Heated-hiking boot (Size 10 Men) 
-Great — here's the full detailed breakdown for the Low-G MaxAssist 2.0 – Solar-Thermal Edition boot, including:
+ light wieght physics 3.0 – Solar-Thermal Edition boot, including:
 
 🔧 Manufacturing cost
 
