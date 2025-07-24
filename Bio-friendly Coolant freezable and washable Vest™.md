@@ -5,7 +5,7 @@
 🧊 THE NEXT EVOLUTION IN SUMMER WEAR
 
 When the summer heat becomes relentless and extreme temperatures threaten your comfort, performance, or safety — you don’t need a fan or tech. You need real, wearable cooling.
-That’s why we’ve created the Bio-Frozen Cooling Vest™, a short-sleeve, reusable vest engineered with a unique double-layer cooling system that keeps your body cool for hours — without batteries, wires, or chemical packs.
+That’s why we’ve created the Bio-Frozen Cooling Vest, a short-sleeve, reusable vest engineered with a unique double-layer cooling system that keeps your body cool for hours — without batteries, wires, or chemical packs.
 
 This is more than a shirt.
 It’s revolutionary passive climate control, redefined for today’s world.
