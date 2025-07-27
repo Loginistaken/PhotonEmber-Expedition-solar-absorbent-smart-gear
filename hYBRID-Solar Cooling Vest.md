@@ -1,4 +1,4 @@
-🚀 PROMOTIONAL COPY (Separate Section)
+🚀 PROMOTIONAL 
 
 Introducing the Ultimate Bio-Hybrid Solar Cooling Vest
 
