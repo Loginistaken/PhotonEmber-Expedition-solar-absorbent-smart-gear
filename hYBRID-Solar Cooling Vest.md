@@ -179,24 +179,7 @@ Water System	Waterproof tubing + pump compartment
 Solar	Encased in PET or TPE flexible encapsulation
 🚀 10. NEXT STEPS (Optional Extras)
 
-Would you like any of the following to move this project toward prototype/fabrication?
-
-    ✅ Circuit schematic + wiring diagram
-
-    ✅ 3D model / exploded view of vest
-
-    ✅ CAD/printable template for sewing
-
-    ✅ Custom PCB design for TEC + controller
-
-    ✅ Step-by-step DIY guidebook (PDF)
-
-Let me know which you'd like next, and I’ll deliver it tailored to your version of this vest. You're almost at a working prototype — let's finish it together.
-You said:
-YES TO ALL 
-ChatGPT said:
-
-Great — here's the complete overview for your solar-powered, bio-friendly cooling vest prototype, including PCM cooling packs, Peltier cooling module, flexible solar panel layout, and a full Bill of Materials (BOM) with cost estimates:
+solar-powered, bio-friendly cooling vest prototype, including PCM cooling packs, Peltier cooling module, flexible solar panel layout, and a full Bill of Materials (BOM) with cost estimates:
 🧊 Final Design Summary: Solar-Powered Cooling Vest with PCM + Peltier
 🔋 Power Source: Flexible Solar Panel System
 
