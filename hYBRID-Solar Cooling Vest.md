@@ -18,7 +18,7 @@ Stay cool in the heat, sustainably and independently—whether at work, on the t
 
     User-focused versatility:
 
-        Ideal for outdoor workers, athletes, military, hikers, medical users with heat sensitivity.
+        Ideal for outdoor workers, athletes, peace makers, hikers, medical users with heat sensitivity.
 
         Flexible PCM pouches let you switch between passive, active, or hybrid cooling.
 
