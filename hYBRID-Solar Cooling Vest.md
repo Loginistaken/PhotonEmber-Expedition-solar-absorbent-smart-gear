@@ -53,7 +53,7 @@ Create a modular cooling vest using:
 
     Bio-friendly PCM cooling packs
 
-Designed for outdoor workers, athletes, military, hikers, or medical needs.
+Designed for outdoor workers, athletes, hikers, or medical needs.
 🔩 2. CORE FUNCTIONAL BLOCKS
 System	Description
 🌞 Solar Energy Capture	Flexible Amorphous Silicon or Organic PV cells on vest exterior
@@ -130,9 +130,13 @@ Component	Specs / Notes	Cost (USD)
 
 ♻️ 6. BIO-FRIENDLY PCM DETAILS
 PCM Type	Temp	Source	Notes
+
 🌱 Capric–Lauric Acid	~21°C	Coconut or palm oil	Biodegradable, safe
+
 🌱 Soy-based Ester PCM	~18–22°C	Soybeans	Non-toxic, eco-friendly
+
 🧂 Hydrated Salts	~25–30°C	Inorganic	Stable but may leak if not sealed
+
 ♻️ Paraffin (if used)	~18–24°C	Petroleum-based	Reusable but less green
 
     Stored in sealed bio-pouches
@@ -142,11 +146,13 @@ PCM Type	Temp	Source	Notes
     Inserted in vest pouches
 
 🌡️ 7. COOLING MODES & HOW IT WORKS
+
 Mode	Components	How It Works	When To Use
 Passive PCM	PCM packs	Absorb body heat, melt slowly	Indoors, low activity
 Solar-Peltier	TEC + solar + battery	Cools one side, heats the other; heat sink dissipates exhaust	Outdoors, high sun
 Solar-Water Flow	Pump + water + tubing	Moves chilled liquid in vest channels	When shade/sun fluctuates
 Hybrid (PCM + Active)	All combined	Cold packs + powered TEC or flow	Extreme heat conditions
+
 🏭 8. HOW TO MANUFACTURE (DIY/Prototype)
 Materials:
 
@@ -171,16 +177,21 @@ Tools Needed:
     3D printer (for TEC housing/fan duct, optional)
 
 🛡️ 9. SAFETY & DURABILITY
+
 Area	Safety Design
 Voltage	Keep under 12V (wearable safe limit)
 Heat	Insulate TEC housing to avoid hot side burns
 Battery	Use protected BMS circuits
 Water System	Waterproof tubing + pump compartment
 Solar	Encased in PET or TPE flexible encapsulation
+
 🚀 10. NEXT STEPS (Optional Extras)
 
-solar-powered, bio-friendly cooling vest prototype, including PCM cooling packs, Peltier cooling module, flexible solar panel layout, and a full Bill of Materials (BOM) with cost estimates:
+solar-powered, bio-friendly cooling vest prototype, including PCM cooling packs, Peltier cooling module,
+flexible solar panel layout, and a full Bill of Materials (BOM) with cost estimates:
+
 🧊 Final Design Summary: Solar-Powered Cooling Vest with PCM + Peltier
+
 🔋 Power Source: Flexible Solar Panel System
 
     Type: Amorphous Silicon or Organic Photovoltaic (OPV)
@@ -190,6 +201,7 @@ solar-powered, bio-friendly cooling vest prototype, including PCM cooling packs,
     Output: 5V–12V range to power TEC modules + fans
 
 ❄️ Cooling Systems Integrated
+
 1. Peltier Module (Thermoelectric Cooling - TEC)
 
     Draws heat from the body using electric current
@@ -219,6 +231,7 @@ solar-powered, bio-friendly cooling vest prototype, including PCM cooling packs,
     Reusable: Freeze overnight, insert into vest pouch
 
 🔧 Vest Construction
+
 Feature	Details
 Fabric Material	Hemp-cotton blend (breathable + eco)
 Solar Panel Location	Flexible, stitched onto back/shoulders
@@ -227,6 +240,7 @@ Cooling Vents	Mesh ventilation in armpits and sides
 Wiring	Heat-resistant loom or braided textile sheath
 Battery Pack (Optional)	Li-ion or Li-Po (5V–12V output) rechargeable, stored near pouch
 Power Control Switch	One-button ON/OFF or smart thermostat sensor toggle
+
 📦 BOM (Bill of Materials) for 1 Prototype
 Component	Quantity	Estimated Cost (USD)
 Hemp-Cotton Vest Base	1	$20 – $40
@@ -245,6 +259,7 @@ PCB or Circuit Hub (optional)	1	$5 – $10
 🎯 Total Estimate:
 Basic Prototype: ~$90 – $160
 Advanced (more panels, dual cooling, smart control): $180 – $240
+
 🔌 Electrical Flow (How it Works)
 
     ☀️ Solar Panels collect energy → feed it to:
