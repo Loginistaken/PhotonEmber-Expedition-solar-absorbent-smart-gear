@@ -5,7 +5,9 @@ Introducing the Ultimate Bio-Hybrid Solar Cooling Vest
 Stay cool in the heat, sustainably and independently—whether at work, on the trail, or on the job:
 
     Triple-mode cooling power:
-    The Ultimate Bio-Hybrid Solar Cooling Vest works by combining multiple cooling technologies into a wearable, solar-powered garment. Here’s how each part functions together:
+    The Ultimate Bio-Hybrid Solar Cooling Vest works by combining multiple cooling 
+    technologies into a wearable, solar-powered garment. Here’s how each part functions together:
+
 1. Multiple Cooling Modes
 
     Phase-Change Material (PCM) Packs: Plant-based packs are inserted into the vest. These packs melt at 18–22 °C, absorbing body heat passively for hours and providing gentle, sustained cooling.
