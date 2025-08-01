@@ -10,28 +10,30 @@ Stay cool in the heat, sustainably and independently—whether at work, on the t
 
 1. Multiple Cooling Modes
 
-    Phase-Change Material (PCM) Packs: Plant-based packs are inserted into the vest. These packs melt at 18–22 °C, absorbing body heat passively for hours and providing gentle, sustained cooling.
+    Phase-Change Material (PCM) Packs: Plant-based packs are inserted into the vest. These packs melt at 18–22 °C,
+   absorbing body heat passively for hours and providing gentle, sustained cooling.
     Thermoelectric (Peltier) Module: Small, solar-powered modules actively draw heat away from your body. One side of the Peltier gets cold (facing your body), and the other side gets hot (heat is vented away with fins/fans).
     Water-Flow System: A micro-pump circulates chilled water through tubing in the vest, moving cool liquid around your torso for extra comfort in extreme heat.
 
-2. Solar-Powered & Battery-Backed
+3. Solar-Powered & Battery-Backed
 
     Flexible solar panels (6–8 W) are built into the vest’s back, chest, and shoulders to generate electrical power from sunlight.
-    Power is stored in a rechargeable lithium-ion battery, allowing the active cooling systems (Peltier module and water pump) to run even when you move out of the sun.
+    Power is stored in a rechargeable lithium-ion battery, allowing the active cooling systems
+   (Peltier module and water pump) to run even when you move out of the sun.
 
-3. Modular & Eco-Friendly Design
+5. Modular & Eco-Friendly Design
 
     The vest’s shell is made from hemp-cotton; the interior is moisture-wicking mesh.
     Components (PCM packs, electronics, panels) are removable or replaceable, enabling repair and customization.
     The PCM is bio-friendly (plant-based or biodegradable, not petroleum-based).
 
-4. User Controls & Safety
+6. User Controls & Safety
 
     You can switch between passive (PCM only), active (Peltier/water), or hybrid cooling modes.
     Optional smart features include a microcontroller (e.g., ESP32) for automated temperature control, safety cutoffs, and toggles.
     Safety is enhanced by keeping voltages low, insulating hot components, and waterproofing the water system and electronics.
 
-5. How It All Works Together
+7. How It All Works Together
 
     In the sun: Solar panels charge the battery and power the Peltier module and/or water pump for active cooling.
     In shade or indoors: PCM packs continue to work passively, absorbing heat.
@@ -46,9 +48,10 @@ Example Use
     The user can control which system runs or let smart sensors automate it.
 
 In summary:
-This vest uses solar energy to power high-tech cooling (Peltier, water flow) and combines it with eco-friendly passive cooling (PCM packs), all in a modular and sustainable design that works anywhere—sun or shade, active or resting.
+This vest uses solar energy to power high-tech cooling (Peltier, water flow) and combines it with eco-friendly passive cooling (PCM packs),
+all in a modular and sustainable design that works anywhere—sun or shade, active or resting.
 
-        Phase‑Change Material (PCM): plant-based packs (18–22 °C) that absorb body heat passively for hours.
+        Phase‑Change Material (PCM): plant-based packs (18–22 °C) (20-40F) that absorb body heat passively for hours.
 
         Thermoelectric (Peltier) active cooling: solar-powered modules draw heat away via heat sinks and fans.
 
@@ -288,7 +291,8 @@ Component	Quantity	Estimated Cost (USD)
 Hemp-Cotton Vest Base	1	$20 – $40
 Flexible Solar Panel (5–12V)	2	$15 – $30 each
 PCM Cooling Packs (Bio-safe)	4	$5 – $10 each
-Peltier TEC1-12706 Module	1	$6 – $10
+{Peltier TEC1-12706 Module	bismuth telluride with n-type (selenium-doped) and p-type
+(antimony-doped) legs, sandwiched between ceramic plates1}$10 – $20
 Aluminum Heatsink + Fan Combo	1	$8 – $15
 Li-ion Rechargeable Battery (5V–12V)	1	$10 – $20
 DC-DC Step-Up Converter	1	$5 – $10
