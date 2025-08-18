@@ -1,4 +1,4 @@
-🧥⚡ VoltWeave Expedition Mk II — Dual Solar Battery Jacket with SolarMeshCast™
+🧥⚡ PhotonEmber Expedition Mk II — Dual Solar Battery Jacket with SolarMeshCast™
 
 
 🧵 1. MATERIAL LAYERS (unchanged, still vital)
@@ -135,7 +135,7 @@ Spec	Detail
 💡 Reflective Piping	Cobalt glow in dark for visibility/safety
 
 
-👕 Logo	“VoltWeave™ Expedition Jacket // Featuring SolarMeshCast™”
+👕 Logo	“PhotonEmber™ Expedition Jacket // Featuring SolarMeshCast™”
 
 
 🏭 8. PRODUCTION DETAILS
