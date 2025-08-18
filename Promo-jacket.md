@@ -1,11 +1,11 @@
-Introducing the Dual Solar Battery Jacket — Power Meets Performance in Every Stitch
+Introducing the Photon-Ember Dual Solar Battery Jacket — Power Meets Performance in Every Stitch
 
 When adventure calls, power is essential. Whether you’re camping deep in the wilderness, trekking on a remote expedition, 
 or simply powering through a long day, the Dual Solar Battery Jacket is engineered to keep you 
 warm and your flashlights charged — wherever you go.
 
 Unmatched Solar Warmth & Energy Supply
-This isn’t just a jacket — it’s your personal solar power station. Equipped with dual high-efficiency solar 
+This jacket is your personal solar power station. Equipped with dual high-efficiency solar 
 panels seamlessly woven into the fabric, the jacket absorbs sunlight to supply extra warmth, heating your 
 body when temperatures drop. But that’s just the beginning. These solar panels convert sunlight into clean energy, 
 charging an integrated battery system that powers your essential devices. Imagine having the freedom to recharge your
