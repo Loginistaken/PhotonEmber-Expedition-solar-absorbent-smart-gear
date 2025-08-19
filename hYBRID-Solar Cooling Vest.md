@@ -1,7 +1,7 @@
 The solar-cool jacket hybrid and Phase Change Material (PCM) operation, 
 with a temperature example and hour-by-hour performance:
 
-The solar-cool jacket hybrid uses bio-friendly PCM packs that activate 
+The solar-cool jacket hybrid by Photon Ember uses bio-friendly PCM packs that activate 
 
 (start melting and absorbing heat) between 64°F and 72°F.
 When the outside temperature is, for example, 95°F, the PCM packs actively cool the wearer 
@@ -153,7 +153,7 @@ Get ready to redefine wearable cooling—efficient, sustainable, adaptable. Beat
 
 ✅ COMPETITIVE EDGE SUMMARY
 
-Feature	Your Bio‑Hybrid Vest	Competitor Examples
+Feature	Photon Ember's Bio‑Hybrid Vest	Competitor Examples
 Cooling modes	PCM + Peltier + water + solar hybrid	Evaporative only, PCM-only, or fan/Peltier only
 Power source	On-board solar plus battery	Battery-only or none
 Sustainability	Bio-friendly materials and PCM	Petroleum-based PCM, synthetic fabrics
@@ -233,6 +233,7 @@ Microcontroller (optional auto-switching, safety, PWM)
 
 🛠 5. COMPONENTS & BOM (Bill of Materials)
 Component	Specs / Notes	Cost (USD)
+
 🔋 Flexible Solar Panels	6–8W total, PET or organic layer	$20–30
 ⚡ Charge Controller	Li-ion compatible, 1A MPPT preferred	$5–10
 🔋 3.7V Li-ion Battery	2000–5000mAh pouch	$8–15
