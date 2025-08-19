@@ -76,7 +76,7 @@ Flexible Fluoropolymer Shell	Seals salts and blocks humidity + mechanical stress
 Thermal Cutoff Circuits	Disconnect battery at 50°C as redundant safety feature
 
 🧪 Core Innovations Over Mainstream Li-ion
-Advantage Area	FluoroHybrid™ Gen2
+Advantage Area	Minflorix™ Gen2 Battery
 Bio-safety	Fully non-toxic, no cobalt, no flammable solvents
 Low EMF	Boron nitride matrix absorbs harmful emissions
 Wearability	Flexible, lightweight, curved pouch form
