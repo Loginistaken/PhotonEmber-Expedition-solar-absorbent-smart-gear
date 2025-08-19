@@ -39,7 +39,7 @@ thermal regulation, connectivity, and user-friendly charging solutions into one 
 Be part of the future where fashion meets function and energy independence goes wherever you do. 
 Join us in creating the ultimate gear for modern explorers — the Dual Solar Battery Jacket.
 
-🔋 Rebuilding the FluoroHybrid™ Battery for Jacket Integration
+🔋 Rebuilding the Minflorix™ Gen2 Battery for Jacket Integration
 ⚙️ Performance Goals from the Jacket
 
 Batteries that can:
@@ -53,9 +53,9 @@ Total Estimated Demand	~16–25 W/h (average)
 design the battery to provide ~100–150 Wh of energy, covering 4–6 hours of active use 
 without sunlight, and being charged by sunlight or backup USB overnight.
 
-🔋 Updated Battery Design — FluoroHybrid™ Jacket Cell Pack
+🔋 Updated Battery Design — Minflorix™ Gen2 Battery Jacket Cell Pack
 Feature	Specification
-Battery Name	FluoroHybrid™ Gen2 (Wearable Module)
+Battery Name	Minflorix™ Gen2 Battery (Wearable Module)
 Chemistry	Magnesium–Manganese–Lithium Fluoride (Mg–Mn–LiF)
 Electrolyte	Gel-based fluoride salt matrix (LiF–NaF–MgF₂)
 Form Factor	2x Ultra-flat pouch cells (modular, curved to body)
