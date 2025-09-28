@@ -1,5 +1,6 @@
-The GPL 3.0 liscense does not apply to this item also sceen on the GPL 3.0 liscense 
-🔥 Introducing the Bio-friendly Coolant freezable and washable Vest™ — Summer's Most Advanced Defense Against Heat
+The GPL 3.0 liscense does not apply to this item also sceen on the GPL 3.0 liscense page. 
+
+🔥 Introducing the Wiz-Dimensional's Bio-friendly Coolant freezable and washable Vest — Summer's Most Advanced Defense Against Heat
 
     "Engineered for heatwaves. Designed for humanity."
 
