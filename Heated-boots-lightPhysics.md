@@ -1,13 +1,13 @@
 #Wiz-Dimensional Heated-boot light wieght physics   
 
 ⚙️ Core Shoe Design Blueprint: Quantum Gravity-Repel Heated-hiking boot (Size 10 Men) 
- light wieght physics 3.0 – Solar-Thermal Edition boot:
+ light wieght physics 4.0 – Solar-Thermal Edition boot:
 
 🥾🔥Wiz-Dimensional Heated-boot light wieght physics 4.0 — Solar-Thermal Gravity-Reduction Boots
 Technology Meets Terrain. Warmth Meets Weightlessness.
 
 🌍 Engineered for Earth, Inspired by Space.
-Welcome to the next evolution in advanced terrain mobility: Heated-boot light wieght physics™ 3.0 – Solar-Thermal Edition.
+Welcome to the next evolution in advanced terrain mobility: Heated-boot light wieght physics 4.0 – Solar-Thermal Edition.
 A boot forged from the fusion of aerospace physics, quantum engineering, and solar-powered survival tech, 
 this is more than footwear — it's a mobility system for the future explorer.
 
