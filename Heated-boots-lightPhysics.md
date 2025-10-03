@@ -3,7 +3,7 @@
 ⚙️ Core Shoe Design Blueprint: Quantum Gravity-Repel Heated-hiking boot (Size 10 Men) 
  light wieght physics 3.0 – Solar-Thermal Edition boot:
 
-🥾🔥Wiz-Dimensional Heated-boot light wieght physics 3.0 — Solar-Thermal Gravity-Reduction Boots
+🥾🔥Wiz-Dimensional Heated-boot light wieght physics 4.0 — Solar-Thermal Gravity-Reduction Boots
 Technology Meets Terrain. Warmth Meets Weightlessness.
 
 🌍 Engineered for Earth, Inspired by Space.
@@ -25,7 +25,7 @@ Magneto-repulsion chamber delivers timed EM pulses at heel-strike to actively re
 Result: 30%–45% reduction in perceived weight with every step. Float, don’t just walk.
 
 🔥 Solar-Powered Heating System
-Inspired by advanced solar jackets, the 3.0 model integrates nano-film solar cells into the boot’s rear panels and tongue lining.
+Inspired by advanced solar jackets, the 4.0 model integrates nano-film solar cells into the boot’s rear panels and tongue lining.
 
 Collected energy fuels precision heating pads placed in the toe box, heel, and arch.
 
@@ -88,7 +88,7 @@ Standard	$1,700	Full system, 2 colorways, app pairing
 Custom Elite	$2,550	Custom fit, electrochromic shell, choice of terrain tread, nameplate engraving
 
 🌌 For the Explorer of Tomorrow.
-Heated-boot light wieght physics™ 3.0 isn’t just a boot — it’s an exosystem for movement.
+Heated-boot light wieght physics 4.0 isn’t just a boot — it’s an exosystem for movement.
 It lifts. It warms. It adapts. It listens to your stride. It charges your gear.
 Every component is meticulously engineered to turn raw terrain into a lighter, warmer, smarter journey.
 
