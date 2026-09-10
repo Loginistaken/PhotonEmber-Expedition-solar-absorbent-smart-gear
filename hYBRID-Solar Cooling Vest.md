@@ -406,4 +406,4 @@ Peltier Active Cooling	On-demand deeper cooling (for high heat)
 Eco Fabrics	Sustainable, breathable, and washable
 Modular Build	Easy to repair or upgrade
 
-Intellectual Property Notice: Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT, GitHub Copilot)as well as bring special thanks OpenAI gpt chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
+see legal doc here CONCEPTUAL DEVELOPMENT.md
