@@ -366,3 +366,4 @@ Estimated useful life:
     Core replacement: every 1–1.5 years
 
     Vest shell lifespan: 3–5 years with washing
+see legal doc here CONCEPTUAL DEVELOPMENT.md
