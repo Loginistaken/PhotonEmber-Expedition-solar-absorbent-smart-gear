@@ -50,3 +50,4 @@ Smart Internals (heater, interface)	$19	$65
     🏭 Production Cost (manufacturer): $245
 
     🛍️ Estimated Retail Price (consumer): $722
+see legal doc here CONCEPTUAL DEVELOPMENT.md
