@@ -149,3 +149,4 @@ Final Statement
 The PhotonEmber Expedition Jacket with RSIS PC‑1 upgrade transforms a pedestrian into a visible, 
 energy‑sufficient safety participant within a multi‑agent road intelligence system — without requiring interaction, 
 communication, or attention from the wearer.
+see legal doc here CONCEPTUAL DEVELOPMENT.md
