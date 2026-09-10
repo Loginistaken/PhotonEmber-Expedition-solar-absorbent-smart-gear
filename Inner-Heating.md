@@ -47,3 +47,4 @@ Passive Heat	Indirect	~30–35°C from battery warmth	Ongoing during use
     The battery-to-body heat recycling is also mentioned as part of the Thermal Exhaust Shield:
 
         “Graphene mesh heat sink + aerogel padding that redirects battery warmth inward.”
+see legal doc here CONCEPTUAL DEVELOPMENT.md
