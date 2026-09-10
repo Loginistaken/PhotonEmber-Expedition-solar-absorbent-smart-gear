@@ -100,3 +100,4 @@ Standard outdoor use	~18 W	~6.5 hours
 Heavy use (charging + heat)	~25 W	~4.8 hours
 Low use (just phone + LED)	~8–10 W	~12–15 hours
 Solar Refill (5W sun × 6 hrs)	+30 Wh	Recovers ~25–30% of charge
+see legal doc here CONCEPTUAL DEVELOPMENT.md
