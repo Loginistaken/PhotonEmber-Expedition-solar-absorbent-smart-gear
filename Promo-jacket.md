@@ -1,4 +1,4 @@
-Introducing the Photon-Ember Dual Solar Battery Jacket — Power Meets Performance in Every Stitch
+Introducing the new still in concept stage, Photon-Ember Dual Solar Battery Jacket — Power Meets Performance in Every Stitch
 
 When adventure calls, power is essential. Whether you’re camping deep in the wilderness, trekking on a remote expedition, 
 or simply powering through a long day, the Dual Solar Battery Jacket is engineered to keep you 
